@@ -1,0 +1,13 @@
+name = "Fabric Server Lite"
+author = "NullBite"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "496670ddf14309fbb2521b5914a999d6d724e783c8dee35a474f2e68c2e384be"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
