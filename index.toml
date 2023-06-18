@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "a971da7453e033badc7fce7347c807ffb9b19bb2c5247c0bb914e7275ca2cd8a"
+
+[[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "29e8afe5258e9f0cbeb96d3e8ab0cbdb4eadacf48621a6df06a6dece25410547"
 
