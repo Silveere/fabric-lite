@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "a971da7453e033badc7fce7347c807ffb9b19bb2c5247c0bb914e7275ca2cd8a"
+hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
 
 [[files]]
 file = "config/yosbr/config/figura.json"
