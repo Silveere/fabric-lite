@@ -1,0 +1,12 @@
+autoJump:false
+darkMojangStudiosBackground:true
+snooperEnabled:false
+operatorItemsTab:true
+simulationDistance:6
+guiScale:3
+maxFps:260
+advancedItemTooltips:true
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+onboardAccessibility:false
