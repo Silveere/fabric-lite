@@ -5,6 +5,10 @@ file = "config/yosbr/config/capes.json5"
 hash = "a971da7453e033badc7fce7347c807ffb9b19bb2c5247c0bb914e7275ca2cd8a"
 
 [[files]]
+file = "config/yosbr/config/figura.json"
+hash = "0795fa02b93a8e4fe544cb870531ae5c150f29efa163a11943c8079824848a11"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "8617ce5864f1a621c27456ad72a5dfb44d826c006afdd772cf32970dc6455a47"
 
@@ -18,7 +22,7 @@ hash = "29e8afe5258e9f0cbeb96d3e8ab0cbdb4eadacf48621a6df06a6dece25410547"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a12b550bb1fe31e3951b14c2ce622c523c877250a31798effba7bd5531da05b4"
+hash = "a0cc6031ca3d886ab809375c79406aa45fd1b6eaac801fd53f6719b3494c3af3"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
