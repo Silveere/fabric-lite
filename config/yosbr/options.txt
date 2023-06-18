@@ -10,3 +10,6 @@ tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
 onboardAccessibility:false
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","betterbeds:connectedbeds","midnightcontrols:bedrock"]
+incompatibleResourcePacks:["betterbeds:connectedbeds","midnightcontrols:bedrock"]
+
