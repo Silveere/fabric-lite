@@ -22,7 +22,7 @@ hash = "29e8afe5258e9f0cbeb96d3e8ab0cbdb4eadacf48621a6df06a6dece25410547"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a0cc6031ca3d886ab809375c79406aa45fd1b6eaac801fd53f6719b3494c3af3"
+hash = "95446e151890157ebdc8fa114b1fcbfff0c022403fa2e4f298a55258cef3c339"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
