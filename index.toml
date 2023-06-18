@@ -281,6 +281,11 @@ hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/vanillatweaks-r491936.pw.toml"
+hash = "138b9b89eb5d5504c3e0503cb8cd88b38e093fa8942f8b127904ff96e5d8d103"
+metafile = true
+
+[[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
 hash = "1f2ec0bcd3a5e8e5a4070b141654039f726812ae0a76acf2b6b5e309da24dc0e"
 metafile = true
