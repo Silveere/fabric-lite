@@ -1,5 +1,6 @@
 name = "lambdynamiclights"
 filename = "lambdynamiclights-2.3.1+1.20.1.jar"
+side = "client"
 
 [download]
 url = "https://b2.nullbite.com/file/nullbite-personal/lambdynamiclights-2.3.1%2B1.20.1.jar"
