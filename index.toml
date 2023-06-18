@@ -18,7 +18,7 @@ hash = "29e8afe5258e9f0cbeb96d3e8ab0cbdb4eadacf48621a6df06a6dece25410547"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "33554c187c6fbf95e9a87ddda77cb897ff6d45889d53e9124cf8a2d8c1030e2c"
+hash = "0755ca39b5916194fabfa112e890862e719e7c19d37bf521fccfb31d2cae5797"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "678dfbdc3e8900f7248533a91b0e3b6317f91fe05edd718bef0d39d89823f658"
+hash = "ec93c28f98161677686920965b99cfd7d7c328a7a3fa407532700dd8ec816265"
 metafile = true
 
 [[files]]
@@ -281,8 +281,8 @@ hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/vanillatweaks-r491936.pw.toml"
-hash = "138b9b89eb5d5504c3e0503cb8cd88b38e093fa8942f8b127904ff96e5d8d103"
+file = "resourcepacks/vanillatweaks.pw.toml"
+hash = "4de5588398a4135826954ccad0317b24dd8d22d2345d383032daa3fcf6d4240c"
 metafile = true
 
 [[files]]
