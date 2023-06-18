@@ -5,6 +5,14 @@ file = "config/yosbr/config/capes.json5"
 hash = "a971da7453e033badc7fce7347c807ffb9b19bb2c5247c0bb914e7275ca2cd8a"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "5f60325504ed1c87697036574a581882b92a18f89e4f7285d0242cb8d9cd1b76"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "5f60325504ed1c87697036574a581882b92a18f89e4f7285d0242cb8d9cd1b76"
+
+[[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "29e8afe5258e9f0cbeb96d3e8ab0cbdb4eadacf48621a6df06a6dece25410547"
 
