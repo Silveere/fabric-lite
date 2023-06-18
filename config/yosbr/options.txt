@@ -10,6 +10,6 @@ tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
 onboardAccessibility:false
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","betterbeds:connectedbeds","midnightcontrols:bedrock","file/VanillaTweaks_r491936.zip"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","betterbeds:connectedbeds","midnightcontrols:bedrock","file/VanillaTweaks_r265009.zip"]
 incompatibleResourcePacks:["betterbeds:connectedbeds","midnightcontrols:bedrock"]
 

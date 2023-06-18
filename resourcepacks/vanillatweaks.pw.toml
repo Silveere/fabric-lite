@@ -1,8 +1,7 @@
-name = "VanillaTweaks"
-filename = "VanillaTweaks.zip"
-side = "client"
+name = "resourcepacks/vanillatweaks"
+filename = "VanillaTweaks_r265009.zip"
 
 [download]
 url = "https://f002.backblazeb2.com/file/nullbite-personal/fabric-lite/VanillaTweaks_r265009.zip"
 hash-format = "sha256"
-hash = "c590f1b2dc8585a1d7d8b16385543943b6fbf3cfd8e9f89e74282896394d74d5"
+hash = "72909653977df8ea25db672708ae3ac546da197db6972d551202b3784c904fc7"

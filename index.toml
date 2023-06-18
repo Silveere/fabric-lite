@@ -18,7 +18,7 @@ hash = "29e8afe5258e9f0cbeb96d3e8ab0cbdb4eadacf48621a6df06a6dece25410547"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0755ca39b5916194fabfa112e890862e719e7c19d37bf521fccfb31d2cae5797"
+hash = "51aa35160b606edd924a15ab00e345aa3654f80e1bd49e71bdc09299e25a3ae4"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/vanillatweaks.pw.toml"
-hash = "4de5588398a4135826954ccad0317b24dd8d22d2345d383032daa3fcf6d4240c"
+hash = "2ada98e4a07f325283f285b9ac397636df3414e2b578d3f6e4d55ed00904f23d"
 metafile = true
 
 [[files]]
