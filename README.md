@@ -54,6 +54,7 @@
 - Puzzle - Motschen (https://github.com/PuzzleMC/Puzzle)
 - Reese's Sodium Options - FlashyReese (https://github.com/FlashyReese/reeses-sodium-options)
 - Roughly Enough Items (REI) - shedaniel (https://github.com/shedaniel/RoughlyEnoughItems)
+- Screenshot to Clipboard - comp500 (https://github.com/comp500/ScreenshotToClipboard)
 - Sodium Extra - FlashyReese (https://github.com/FlashyReese/sodium-extra-fabric)
 - Sodium - jellysquid3 (https://github.com/CaffeineMC/sodium-fabric)
 - spark - lucko (https://github.com/lucko/spark)
