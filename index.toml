@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/MouseTweaks.cfg"
+hash = "5c6f2a474736301aa66e13b9fe3bb9044cef658bae57e6b3507785554743a75c"
+
+[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
 
