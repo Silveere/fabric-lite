@@ -3,9 +3,25 @@
         "enable_updates_check": false,
         "first_run": true
     },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
     "LockedSlotsSettings": {
         "locked_slots_empty_hotbar_as_semi_locked": {
             "value": false
         }
+    },
+    "AutoRefillSettings": {
+        "audio_durability_notification": {
+            "value": false
+        },
+        "number_of_notifications": 5,
+        "audio_replace_success_notification": {
+            "value": false
+        },
+        "audio_replace_failed_notification": {
+            "value": false
+        },
+        "type_visual_replace_failed_notification": "HOTBAR"
     }
 }
