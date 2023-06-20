@@ -25,7 +25,6 @@ Alternatively, install the `.mrpack` files from the [releases](https://gitea.pro
 - AppleSkin - squeek502 (https://github.com/squeek502/AppleSkin)
 - Architectury API - shedaniel (https://github.com/architectury/architectury)
 - Auth Me - axieum (https://github.com/axieum/authme)
-- Better Beds - Motschen (https://github.com/TeamMidnightDust/BetterBeds)
 - BetterF3 - treyruffy (https://github.com/cominixo/BetterF3)
 - Better Mount HUD - Lortseam (https://github.com/Lortseam/better-mount-hud)
 - Capes - caelthecolher (https://github.com/CaelTheColher/Capes)
