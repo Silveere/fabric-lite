@@ -14,3 +14,4 @@ onboardAccessibility:false
 resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","betterbeds:connectedbeds","midnightcontrols:bedrock","file/VanillaTweaks_r265009.zip"]
 incompatibleResourcePacks:["betterbeds:connectedbeds","midnightcontrols:bedrock"]
 key_key.saveToolbarActivator:key.keyboard.v
+key_iris.keybind.reload:key.keyboard.unknown
