@@ -29,6 +29,18 @@ file = "config/yosbr/options.txt"
 hash = "95446e151890157ebdc8fa114b1fcbfff0c022403fa2e4f298a55258cef3c339"
 
 [[files]]
+file = "config/yosbr/shaderpacks/ComplementaryReimagined_r2.2.zip.txt"
+hash = "f4aaafa7cda512e478ea8942387ebbb0662bbb20b6e0c916c341c373e33a2a50"
+
+[[files]]
+file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.7.2.zip.txt"
+hash = "6f5bf766cebabca0bcfa339eeb119956c48c40eba03c5aa39d7685eab67c56b5"
+
+[[files]]
+file = "config/yosbr/shaderpacks/rethinking-voxels_r0.1_alpha4.zip.txt"
+hash = "6e7b02f11cb6feb7f08d1088d042518d1a04cb6b71a7b2b109cf997173510e3c"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
