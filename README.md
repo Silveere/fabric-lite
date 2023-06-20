@@ -1,4 +1,17 @@
 # Fabric Lite
+This is a simple modpack that provides an enhanced, yet still vanilla
+experience. I mainly made this because I got sick of essentailly making the
+same modpack over and over again manually.
+
+## Installation
+If you have Prism Launcher, the best way to install this is to import the
+following instance. It comes pre-bundled with packwiz-installer-bootstrap, as
+well as a pre-configured pre-launch command which will keep the instance
+up-to-date.
+- https://b2.nullbite.com/file/nullbite-personal/fabric-lite/fabric-lite-minecraft-1.20.1.zip
+
+Alternatively, install the `.mrpack` files from the [releases](https://gitea.protogen.io/nullbite/fabric-lite/releases) section.
+
 ## Credits
 ### Shaders
 - BSL - CaptTatsu (https://bitslablab.com/)
