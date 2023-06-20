@@ -1,6 +1,6 @@
 # Fabric Lite
 This is a simple modpack that provides an enhanced, yet still vanilla
-experience. I mainly made this because I got sick of essentailly making the
+experience. I mainly made this because I got sick of essentially making the
 same modpack over and over again manually.
 
 ## Installation
