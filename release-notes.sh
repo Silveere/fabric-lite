@@ -5,5 +5,5 @@ cat << EOF
 Changes:
 - 
 
-**Full Changelog:** [\`$current...$last\`](https://gitea.protogen.io/nullbite/fabric-lite/compare/$current...$last)
+**Full Changelog:** [\`$last...$current\`](https://gitea.protogen.io/nullbite/fabric-lite/compare/$last...$current)
 EOF
