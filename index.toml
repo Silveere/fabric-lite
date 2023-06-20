@@ -14,7 +14,7 @@ hash = "783c458bf3501796a8f07e396a5bb0d623c7f694c82974fefc228eb921bb82f3"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "3186f9efb5371f0426bd879cf0bb4301d826e7b7b08f30f677303f0dd1af732f"
+hash = "000b31b1c42d90dbc3cd9964df47b9093e698ac08c002771c924b340529e6a18"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
