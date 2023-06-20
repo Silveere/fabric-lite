@@ -5,8 +5,9 @@ same modpack over and over again manually.
 
 ## Installation
 If you have Prism Launcher, the best way to install this is to import the
-following instance. It comes pre-bundled with packwiz-installer-bootstrap, as
-well as a pre-configured pre-launch command which will keep the instance
+following instance. It comes pre-bundled with
+[packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap),
+as well as a pre-configured pre-launch command which will keep the instance
 up-to-date.
 - https://b2.nullbite.com/file/nullbite-personal/fabric-lite/fabric-lite-minecraft-1.20.1.zip
 
