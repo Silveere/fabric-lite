@@ -60,6 +60,11 @@ hash = "cea9d72f42127f4974afc7120d99dd4042d7342129d465ea4afb11f334749b61"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -287,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "5d920f14136c4e3b7731846bd21dbb5ace512d962b61338ffffeae284525b520"
 metafile = true
 
 [[files]]
