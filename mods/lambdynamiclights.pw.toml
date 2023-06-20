@@ -1,8 +1,13 @@
-name = "lambdynamiclights"
+name = "LambDynamicLights"
 filename = "lambdynamiclights-2.3.1+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://b2.nullbite.com/file/nullbite-personal/fabric-lite/lambdynamiclights-2.3.1%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "300952599b40c078fc57f594cbcb03e25d4d69193bb1360d3aaaf081e91841a4"
+url = "https://cdn.modrinth.com/data/yBW8D80W/versions/Vsx4I8Np/lambdynamiclights-2.3.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "bb009883b87e45f069e83d44f2e6d559eee757e4"
+
+[update]
+[update.modrinth]
+mod-id = "yBW8D80W"
+version = "Vsx4I8Np"
