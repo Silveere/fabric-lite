@@ -1,0 +1,11 @@
+{
+    "ModSettings": {
+        "enable_updates_check": false,
+        "first_run": true
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_empty_hotbar_as_semi_locked": {
+            "value": false
+        }
+    }
+}

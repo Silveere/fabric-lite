@@ -9,6 +9,10 @@ file = "config/yosbr/config/figura.json"
 hash = "783c458bf3501796a8f07e396a5bb0d623c7f694c82974fefc228eb921bb82f3"
 
 [[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "3186f9efb5371f0426bd879cf0bb4301d826e7b7b08f30f677303f0dd1af732f"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "8617ce5864f1a621c27456ad72a5dfb44d826c006afdd772cf32970dc6455a47"
 
