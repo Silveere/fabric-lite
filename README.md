@@ -20,6 +20,7 @@ Alternatively, install the `.mrpack` files from the [releases](https://gitea.pro
 - Complementary Reimagined - EminGT (https://modrinth.com/shader/complementary-reimagined)
 - Rethinking Voxels - gri573, EnimGT (https://modrinth.com/shader/rethinking-voxels)
 - MakeUp - javiergchim (https://modrinth.com/shader/makeup-ultra-fast-shaders)
+- VanillAA - leo60228 (https://github.com/leo60228/VanillAA-Shaders)
 
 ### Mods
 - AppleSkin - squeek502 (https://github.com/squeek502/AppleSkin)
