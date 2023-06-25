@@ -353,3 +353,8 @@ metafile = true
 file = "shaderpacks/rethinking-voxels.pw.toml"
 hash = "1f2ec0bcd3a5e8e5a4070b141654039f726812ae0a76acf2b6b5e309da24dc0e"
 metafile = true
+
+[[files]]
+file = "shaderpacks/vanillaa.pw.toml"
+hash = "5def7fe470d25c729d7356c856984ab517e8cbcdf0b01eced72aa1dc95accb3b"
+metafile = true
