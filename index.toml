@@ -325,11 +325,6 @@ hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true
 
 [[files]]
-file = "resourcepacks/vanillatweaks.pw.toml"
-hash = "2ada98e4a07f325283f285b9ac397636df3414e2b578d3f6e4d55ed00904f23d"
-metafile = true
-
-[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "ef5060e4fee094045e79fad89880359d0f3ad6042a63c74314adde206f8f208c"
 metafile = true
