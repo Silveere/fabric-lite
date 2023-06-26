@@ -1,16 +1,13 @@
 name = "Fabric Lite"
 author = "NullBite"
-version = "1.2.5-rc1"
+version = "0.0.0-1.19.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b00717822336ceb8fef3f246e5e98939bc75ac8ce2733d279d396090923eeb4e"
+hash = "452b6d4291be21f1f067da9e31a819ed90afb4886446399fdcedb89ff9657b5d"
 
 [versions]
 fabric = "0.14.21"
-minecraft = "1.20.1"
-
-[options]
-acceptable-game-versions = ["1.20"]
+minecraft = "1.19.4"
