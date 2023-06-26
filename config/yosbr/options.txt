@@ -1,4 +1,4 @@
-version:3465
+version:3337
 autoJump:false
 darkMojangStudiosBackground:true
 snooperEnabled:false
@@ -11,7 +11,7 @@ tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
 onboardAccessibility:false
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","betterbeds:connectedbeds","midnightcontrols:bedrock","file/VanillaTweaks_r265009.zip"]
-incompatibleResourcePacks:["betterbeds:connectedbeds","midnightcontrols:bedrock"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","betterbeds:connectedbeds","midnightcontrols:bedrock"]
+incompatibleResourcePacks:["betterbeds:connectedbeds","midnightcontrols:bedrock","continuity:default","continuity:glass_pane_culling_fix"]
 key_key.saveToolbarActivator:key.keyboard.v
 key_iris.keybind.reload:key.keyboard.unknown
