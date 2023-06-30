@@ -4,7 +4,7 @@ A "lightweight" vanilla-compatible Optimization/QoL modpack.
 
 ## Disclaimer
 
-This modpack includes mods that slightly alter the client behavior (e.g., Inventory Profiles Next), as well as mods that may provide an unfair advantage compared to Vanilla players (e.g., Xaero's Minimap). ***ALWAYS*** check the rules of servers you play on to make sure this is allowed, or you may risk a ban.
+This modpack includes mods that slightly alter the client behavior (e.g., Inventory Profiles Next), as well as mods that certain servers may deem "unfair" to Vanilla players (e.g., Xaero's Minimap). ***ALWAYS*** check the rules of servers you play on to make sure this is allowed, or you may risk a ban.
 
 Additionally, this modpack is mainly made for myself and a few friends. You are free to use this modpack, but understand that my interest in Minecraft comes and goes, and as such, ongoing support is not guaranteed.
   
@@ -12,9 +12,7 @@ This project is licensed under the GNU Affero General Public License, Version 3.
 
 ## Description
 
-Fabric Lite* is a "lightweight" (50+ mods) vanilla-compatible modpack with optimization mods and sane defaults. It comes bundled with well-known mods, including Sodium, Iris, and Continuity. Mod-bundled resource packs, such as those required for Continuity to work, are enabled by default. It is configured with options for Minecraft as well as the bundled mods that are, IMHO, better than the default.
-
-(The name "Fabric Lite*" is not set in stone. I might rename it to something like "YetAnotherFabricPack", to emphasize how original I am for making another OptiFine clone pack)
+Fabric Lite* is a "lightweight" (50+ mods) vanilla-compatible modpack with optimization mods and sane defaults. It comes bundled with well-known mods, including Sodium, Iris, and Continuity. Built-in resource packs, such as the ones provided by Continuity, are enabled by default. The modpack changes a few options in both Vanilla Minecraft and the mods to provide a more streamlined experience.
 
 I mainly created this because I was unhappy with the myriad of other modpack choices, and I was sick of constantly recreating the same "modpack" in my launcher each time a new version came out, forgetting some mods, changing a bunch of settings, forgetting other settings, only to realize I forgot to download shaders.
 
