@@ -1,12 +1,10 @@
 # Fabric Lite*
 
-A "lightweight" vanilla-compatible modpack.
+A "lightweight" vanilla-compatible Optimization/QoL modpack.
 
 ## Disclaimer
 
-**TL;DR:** Check the rules of servers you play on. If they're really strict regarding mods, don't use this pack.
-
-I make ***absolutely no guarantees*** as to whether this modpack fits within "legal" behavior for competitive multiplayer servers. Many servers are very strict as to how a user may modify their game, and certain mods may provide unfair advantages and/or modify the behavior of the game in a way that may violate server rules and result in a ban.
+This modpack includes mods that slightly alter the client behavior (e.g., Inventory Profiles Next), as well as mods that may provide an unfair advantage compared to Vanilla players (e.g., Xaero's Minimap). ***ALWAYS*** check the rules of servers you play on to make sure this is allowed, or you may risk a ban.
 
 Additionally, this modpack is mainly made for myself and a few friends. You are free to use this modpack, but understand that my interest in Minecraft comes and goes, and as such, ongoing support is not guaranteed.
   
