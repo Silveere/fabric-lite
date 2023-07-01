@@ -65,6 +65,11 @@ hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
 
 [[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "dfd7fb4f18b490346dee3a4576660d22f1305c564ead3641bd710193eb74f2e4"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -141,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
 metafile = true
 
 [[files]]
@@ -181,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "f9ac3135cbfed6f7dd40506f71fcbe4ede2aab70e92b2845e5af688cf91ed7cb"
+hash = "5945376058eb508f9a049134ed66dbc70c861d80d043441e03b10fa4338dc1e0"
 metafile = true
 
 [[files]]
@@ -246,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "5ac7c70847108d6c21c3352ae5233129a410e42ddf161319cb0a658c0b296693"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]

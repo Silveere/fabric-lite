@@ -1,3 +1,5 @@
 .gitea/
 README.md
+README-modrinth.md
+COPYING.txt
 release-notes.sh
