@@ -100,6 +100,11 @@ hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
 metafile = true
 
 [[files]]
+file = "mods/client-commands.pw.toml"
+hash = "fbde69d3092af1adae67d9301f4ee0253cd0f8b041be24f8a7deb19cf44ddee2"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
 metafile = true
