@@ -12,7 +12,7 @@ This project is licensed under the GNU Affero General Public License, Version 3.
 
 ## Description
 
-Fabric Lite* is a "lightweight" (50+ mods) vanilla-compatible modpack with optimization mods and sane defaults. It comes bundled with well-known mods, including Sodium, Iris, and Continuity. Built-in resource packs, such as the ones provided by Continuity, are enabled by default. The modpack changes a few options in both Vanilla Minecraft and the mods to provide a more streamlined experience.
+Fabric Lite* is a "lightweight" (50+ mods) vanilla-compatible modpack with optimization mods and sane defaults. It comes bundled with well-known mods, including Sodium, Iris, and Continuity, as well as some well-known shaders. Built-in resource packs, such as the ones provided by Continuity, are enabled by default. The modpack changes a few options in both Vanilla Minecraft and the mods to provide a more streamlined experience.
 
 I mainly created this because I was unhappy with the myriad of other modpack choices always missing some mod that I like, and I was sick of constantly recreating the same "modpack" in my launcher each time a new version came out, forgetting some mods, changing a bunch of settings, forgetting other settings, only to realize I forgot to download shaders.
 
