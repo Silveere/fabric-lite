@@ -65,6 +65,11 @@ hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
 
 [[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "dfd7fb4f18b490346dee3a4576660d22f1305c564ead3641bd710193eb74f2e4"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
