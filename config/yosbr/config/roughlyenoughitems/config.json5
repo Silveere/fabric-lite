@@ -1,5 +1,6 @@
 {
 	"basics": {
 		// Declares whether cheating mode is on.
-		"cheating": "WHEN_CREATIVE",
+		"cheating": "WHEN_CREATIVE"
+	}
 }

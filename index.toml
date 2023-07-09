@@ -18,7 +18,7 @@ hash = "000b31b1c42d90dbc3cd9964df47b9093e698ac08c002771c924b340529e6a18"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "174edea307736e68ee9543a1a294ac4a085f6ac8a2824a8c191417a4751389a6"
+hash = "c072599a7c36a2e240d61ea78ee02b57dec67ae1cfb6dfe70f8ea58537099d40"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
